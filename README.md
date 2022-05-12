@@ -2,9 +2,9 @@
 
 - 👋 I’m just a cool guy trying some code.
 - 👨‍⚕️ I’m a medical student in Argentina.
-- 💡 I’m currently learning ways to use code on medical researches projects.
+- 💡 Currently learning ways to use code on medical researches projects.
 - 👀 If you are a MD, I'm looking for researches opportunities :)
-- 📫 Any question, you can easy DM me here, at Discord ***Eduardo.#9136*** or at Twitter [@Eduardo_UBA](https://twitter.com/Eduardo_UBA)
+- 📫 Any question, you can easy DM me here, at Discord ***Eduardo.#9136*** or at Twitter [@Eduardo_UBA](https://twitter.com/Eduardo_UBA).
 
 ## Code objectives:
 ✅ Basic HTML <br>
