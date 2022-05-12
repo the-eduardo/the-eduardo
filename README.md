@@ -3,12 +3,12 @@
 - 👋 I’m just a cool guy trying some code.
 - 👨‍⚕️ I’m a medical student in Argentina.
 - 💡 Currently learning ways to use code on medical researches projects.
-- 👀 If you are a MD, I'm looking for researches opportunities :)
+- 👀 I'm looking for researches opportunities :)
 - 📫 Any question, you can easy DM me here, at Discord ***Eduardo.#9136*** or at Twitter [@Eduardo_UBA](https://twitter.com/Eduardo_UBA).
 
 ## Code objectives:
 - [x] Basic HTML <br>
-- [ ] Basic CSS <br>
+- [ ] 🔜 Basic CSS <br>
 - [ ] Basic Python <br>
 - [ ] Basic Javascript <br>
 - [ ] Learn GoLang <br>
