@@ -6,7 +6,7 @@
 - 👀 If you are a MD, I'm looking for researches opportunities :)
 - 📫 Any question, you can easy DM me here, at Discord ***Eduardo.#9136*** or at Twitter [@Eduardo_UBA](https://twitter.com/Eduardo_UBA)
 
-## Code objectives
+## Code objectives:
 ✅ Basic HTML <br>
 🔜 Basic CSS <br>
 🔳 Basic Python <br>
