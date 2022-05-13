@@ -1,7 +1,7 @@
 # Hello World
 
 - 👋 I’m just a cool guy trying some code.
-- 👨‍⚕️ I’m a medical student in Argentina.
+- 👨‍⚕️ Medical student in South America.
 - 💡 Currently learning ways to use code on medical researches projects.
 - 👀 I'm looking for researches opportunities :)
 - 📫 Any question, you can easy DM me here or also on:
