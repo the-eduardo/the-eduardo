@@ -9,10 +9,10 @@
 
 ## Code objectives:
 - [x] Basic HTML <br>
-- [ ] 🔜 Basic CSS <br>
-- [ ] Basic Python <br>
+- [x] Basic CSS <br>
+- [ ] Learning... GoLang <br>
 - [ ] Basic Javascript <br>
-- [ ] Learn GoLang <br>
+- [ ] Basic Python <br>
 
 <!---
 Eduardinholoko/Eduardinholoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
