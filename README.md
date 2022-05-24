@@ -1,6 +1,6 @@
 # Hello World
 
-- 👋 I’m just a cool guy trying some code.
+- 👋 I’m just a cool guy learning some code.
 - 👨‍⚕️ Medical student in South America.
 - 💡 Currently learning ways to use code on medical researches projects.
 - 👀 I'm looking for researches opportunities :)
