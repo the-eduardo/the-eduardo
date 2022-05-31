@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+
+<!-- Light Mode -->
 <details>
   <summary #gh-light-mode-only">🖤 GitHub Stats</summary>
-<!-- Light Mode -->
-
 <div align="center"> 
 <a href="https://github.com/the-eduardo#gh-light-mode-only">
   <img align="center" width=52% height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=the-eduardo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="The-Eduardo: Github stats" />
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Dark Mode -->
 <details>
-  <summary>🤍 GitHub Stats</summary>
+  <summary #gh-dark-mode-only>🤍 GitHub Stats</summary>
 <div align="center"> 
 <a href="https://github.com/the-eduardo#gh-dark-mode-only">
   <img align="center" width=52% height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=the-eduardo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&exclude_repo=BF4DB-Modded-Plugin&theme=dark#gh-dark-mode-only" alt="The-Eduardo: Github stats" />
