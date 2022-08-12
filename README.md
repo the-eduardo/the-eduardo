@@ -2,7 +2,7 @@
 
 - 👋 I’m just a cool guy learning some code.
 - 👨‍⚕️ Medical student in South America.
-- 💡 Currently learning ways to use code on medical researches projects.
+- 💡 Currently learning backend dev in Go Lang.
 - 👀 I'm looking for researches opportunities!
 
 ### Connect with me: 
