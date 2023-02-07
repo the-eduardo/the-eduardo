@@ -1,7 +1,7 @@
 # Hello World
 
 - 👋 I’m just a cool guy learning some code.
-- 👨‍⚕️ Medical student in South America.
+- 🧑‍🎓 Student in South America.
 - 💡 Currently learning backend dev in Go Lang.
 - 👀 I'm looking for researches opportunities!
 
