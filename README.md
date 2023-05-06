@@ -19,12 +19,12 @@ Eduardinholoko/Eduardinholoko is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 
 ![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=the-eduardo&layout=compact&theme=city_lights&exclude_repo=BF4DB-Modded-Plugin)
---->
 
 
 
 
-<!-- Light Mode -->
+
+
 <details>
   <summary>:shipit: GitHub Stats</summary>
 <div align="center"> 
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
-<!-- Dark Mode -->
+
 
 <div align="center"> 
 <a href="https://github.com/the-eduardo#gh-dark-mode-only">
@@ -48,3 +48,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <br>
+--->
