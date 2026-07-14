@@ -35,8 +35,8 @@ Backend developer writing mostly **Go**, with a soft spot for **Discord bots tha
 ## 📊 Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-eduardo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-eduardo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss,php,processing" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-eduardo&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-eduardo&theme=tokyonight" alt="Top languages" />
 </p>
 
 ## 🔗 Connect with me
